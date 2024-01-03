@@ -29,6 +29,7 @@ function Intro() {
                         speed={50}
                         style={{ fontSize: '1em' }}
                         repeat={Infinity}
+                    // nothing
                     />
                     </h3>
                     <div className='git'>
